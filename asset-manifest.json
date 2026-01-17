@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skyfly-airline-booking/static/css/main.c6260702.css",
+    "main.js": "/skyfly-airline-booking/static/js/main.b2896347.js",
+    "index.html": "/skyfly-airline-booking/index.html",
+    "main.c6260702.css.map": "/skyfly-airline-booking/static/css/main.c6260702.css.map",
+    "main.b2896347.js.map": "/skyfly-airline-booking/static/js/main.b2896347.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6260702.css",
+    "static/js/main.b2896347.js"
+  ]
+}
