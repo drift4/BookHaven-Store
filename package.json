@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Ahmed Farouk",
-  "homepage": "https://drift3.github.io/BookHaven-Store",
+  "homepage": "https://drift4.github.io/BookHaven-Store",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
