@@ -1,0 +1,34 @@
+{
+  "name": "bookstore-ecommerce",
+  "version": "1.0.0",
+  "description": "A modern e-commerce website for selling books and novels",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Ahmed Farouk",
+  "homepage": "https://drift3.github.io/BookHaven-Store",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "axios": "^1.3.0",
+    "framer-motion": "^12.23.13",
+    "lucide-react": "^0.263.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "tailwindcss": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.13",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.4.21",
+    "vite": "^4.5.14"
+  }
+}
