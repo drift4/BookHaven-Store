@@ -4,7 +4,7 @@
   "description": "A modern e-commerce website for selling books and novels",
   "main": "index.js",
   "license": "MIT",
-  "author": "Ahmed Farouk",
+  "author": "karas wael",
   "homepage": "/",
   "scripts": {
     "dev": "vite",
